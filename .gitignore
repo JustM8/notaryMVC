@@ -2,4 +2,5 @@
 
 /vendor/
 /logs
+/webroot/
 .DS_Store
